@@ -12,3 +12,5 @@ sudo apt install code
 
 ## install OCS url utility from local dir
 sudo dpkg -i ./ocs-url_3.1.0-0ubuntu1_amd64.deb
+
+echo "install-extra-debs executed"

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+        
+    <wallpaper deleted="false">
+		<name>tropic_island_morning</name>
+		<filename>/usr/share/backgrounds/landscapes/tropic_island_morning.jpg</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Clearday</name>
+		<filename>/usr/share/backgrounds/landscapes/Clearday.jpg</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Cloudsnight</name>
+		<filename>/usr/share/backgrounds/landscapes/Cloudsnight.jpg</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>forrest</name>
+		<filename>/usr/share/backgrounds/landscapes/forrest.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>yosemite</name>
+		<filename>/usr/share/backgrounds/landscapes/yosemite.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>tropic_island_day</name>
+		<filename>/usr/share/backgrounds/landscapes/tropic_island_day.jpg</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Rainnight</name>
+		<filename>/usr/share/backgrounds/landscapes/Rainnight.jpg</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>tropic_island_night</name>
+		<filename>/usr/share/backgrounds/landscapes/tropic_island_night.jpg</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>shaded_landscape</name>
+		<filename>/usr/share/backgrounds/landscapes/shaded_landscape.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>evening-sky</name>
+		<filename>/usr/share/backgrounds/landscapes/evening-sky.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>salty_mountains</name>
+		<filename>/usr/share/backgrounds/landscapes/salty_mountains.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>tropic_island_evening</name>
+		<filename>/usr/share/backgrounds/landscapes/tropic_island_evening.jpg</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Cloudsday</name>
+		<filename>/usr/share/backgrounds/landscapes/Cloudsday.jpg</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Clearnight</name>
+		<filename>/usr/share/backgrounds/landscapes/Clearnight.jpg</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+</wallpapers>

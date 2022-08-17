@@ -1,0 +1,16 @@
+#!/bin/bash
+## MandraSaptak Mandal
+
+cd wallpapers
+for n in *;
+do
+	# cp -r !($i/$i.xml)  $i 
+	rsync -av --exclude=$n/$n.xml $n /usr/share/backgrounds
+	cp $n/$n.xml /usr/share/gnome-backgrounds-properties
+	echo $n/$n.xml
+	
+
+done
+
+echo "== list /usr/share/backgrounds:\n $(ls /usr/share/backgrounds)"
+echo "== list /usr/share/gnome-background-properties:\n $(ls /usr/share/gnome-background-properties)"

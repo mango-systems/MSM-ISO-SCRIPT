@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+        
+    <wallpaper deleted="false">
+		<name>peach</name>
+		<filename>/usr/share/backgrounds/solids/peach.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>magenta</name>
+		<filename>/usr/share/backgrounds/solids/magenta.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>bkg1</name>
+		<filename>/usr/share/backgrounds/solids/bkg1.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>blue</name>
+		<filename>/usr/share/backgrounds/solids/blue.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>bkg2</name>
+		<filename>/usr/share/backgrounds/solids/bkg2.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>bkg4</name>
+		<filename>/usr/share/backgrounds/solids/bkg4.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>bkg3</name>
+		<filename>/usr/share/backgrounds/solids/bkg3.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>cyan</name>
+		<filename>/usr/share/backgrounds/solids/cyan.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>flamingo</name>
+		<filename>/usr/share/backgrounds/solids/flamingo.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>green</name>
+		<filename>/usr/share/backgrounds/solids/green.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>bkg5</name>
+		<filename>/usr/share/backgrounds/solids/bkg5.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>red</name>
+		<filename>/usr/share/backgrounds/solids/red.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>gray</name>
+		<filename>/usr/share/backgrounds/solids/gray.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>white</name>
+		<filename>/usr/share/backgrounds/solids/white.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>yellow</name>
+		<filename>/usr/share/backgrounds/solids/yellow.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>pink</name>
+		<filename>/usr/share/backgrounds/solids/pink.png</filename>
+		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#212121</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+</wallpapers>

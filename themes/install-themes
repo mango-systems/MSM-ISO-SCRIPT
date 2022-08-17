@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# install whitesur-gtk-themes (icons not included)
+git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+
+cd WhiteSur-gtk-theme
+./install.sh
+./install.sh -i simple

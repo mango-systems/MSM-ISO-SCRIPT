@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for i in *;
+do 
+    chmod +r /$i/metadata.json
+done
+
+find . -name '*.zip' -exec sh -c 'unzip -d "${1%.*}" "$1"' _ {} \;
+rsync -av --exclude='./install-extension' --exclude='./README.md' * /usr/share/gnome-shell/extensions/
+## untested, it may not load for all users
+## include/enabled via dconf config in ../dconf_tweaks
+
+echo "install_extensions executed"

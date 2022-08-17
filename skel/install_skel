@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp -r ./skel /etc/
+echo "install_skel executed"

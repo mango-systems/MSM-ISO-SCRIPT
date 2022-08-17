@@ -2,3 +2,16 @@
 
 ## install all script
 ## install QT theme
+
+sudo chmod u+x *
+./dconf_tweaks/install_dconf
+./extensions/install-extension
+./extra-debs/install-extra-debs
+# ./extra-utility-applications/
+# ./firefox-themes/
+# ./firefox-tweaks/
+# ./plymouth_theme
+./skel/install_skel
+./themes/install-themes
+./wallpaper_custom/wallpaperinstall
+
